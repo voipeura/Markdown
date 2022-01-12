@@ -29,4 +29,4 @@ Vieraasta remotesta sisällön lataus git clone (osoite).
 Komennolla git remote add upstream "verkkosivun linkki"
 git remote -v tarkistaa
 paikallisen työhakemiston tietojen puskeminen GitHubiin git push -u origin master
-![image](https://user-images.githubusercontent.com/93646619/149132544-b5cf0b0d-5dee-4df8-bb47-f7281ff30d59.png)
+
