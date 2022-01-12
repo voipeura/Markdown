@@ -8,3 +8,5 @@ Git add: komento lisää luodut tiedostot versiohallinnan piiriin
 Git commit: komento lisää tiedoston uusimman tilan versiohallintaan
 <h4>git status</h4>
 Git status: komento tarkistaa, tiedostojen tilan, onko ne lisätty tai commitattu
+<h4>git push</h4>
+Git push: komento ikäänkuin työntää tiedot/tiedostot, tietovarastoon esim: GitHub
