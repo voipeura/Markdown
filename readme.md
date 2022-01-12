@@ -25,5 +25,8 @@ Git reset: komento palaa tiettyyn vanhaan committiin. Komento poistaa kaikki teh
 Git init: komento ottaa versiohallinnan käyttöön työkansiossa. Sitten perus git add ja git commit komennot myös. Git remote add origin: komento kytkee työhakemiston GitHub   repositorioon.
 GitHubiin pitää tehdä repository, johon se voidaan kytkeä ja lähettää tietoa
 Forkkaamisen voi tehdä helpoiten GitHubissa. Se kopio tiedoston itselleen.
-
+Vieraasta remotesta sisällön lataus git clone (osoite).
+Komennolla git remote add upstream "verkkosivun linkki"
+git remote -v tarkistaa
+paikallisen työhakemiston tietojen puskeminen GitHubiin git push -u origin master
 ![image](https://user-images.githubusercontent.com/93646619/149132544-b5cf0b0d-5dee-4df8-bb47-f7281ff30d59.png)
